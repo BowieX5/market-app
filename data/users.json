@@ -1,0 +1,41 @@
+{
+  "users": [
+    {
+      "id": "212e555c-ce58-4f3f-abdd-fc1a9dba4ff7",
+      "fullName": "วรารัตน์",
+      "phone": "0431111111",
+      "role": "tenant",
+      "salt": "16aa843a358941124d2b07f79c1b98f4",
+      "passwordHash": "d1e9a007e8bf3ea136282afd57457daa2bb7e8c52cb5aaacbf1b01202f3c0d48f8619482820b9acf832a329702d95fe4e4e532b18ca3de0816be483a794caf62",
+      "createdAt": "2026-09-29T06:20:13.846Z"
+    },
+    {
+      "id": "a2e7a8e3-97d5-42ba-9d3d-2398dfaee2a3",
+      "fullName": "Market Tester",
+      "phone": "0877777776",
+      "role": "tenant",
+      "salt": "46da76940f8db03c7c1c26b60e5969d9",
+      "passwordHash": "67b9e61d6b11f54fc68ecda0c3bcc798324de39d666ce88607a5424d075078856e3e8464ecf3e0fda2080f91dcb74b386068f8eb21b188a08e6c9ad41b04c418",
+      "createdAt": "2026-09-29T06:37:19.328Z",
+      "email": "market-test@example.com"
+    },
+    {
+      "id": "d81804d5-9da5-4c58-8b7b-33a660f91b51",
+      "fullName": "เจ้าของตลาด",
+      "phone": "0800000000",
+      "role": "owner",
+      "salt": "23a72b4696f56e6eac625acb7595d17c",
+      "passwordHash": "fb4dd61bf069be39360c28fc4f4212d26db4b256350519c42b4d410e0da35f96d30eccddcee881198aee5f4c9227d6f6d154a956def33b8b1e3af0d3d087f517",
+      "createdAt": "2026-09-29T00:00:00.000Z"
+    },
+    {
+      "id": "19559d92-397e-44d3-9eff-f4fa1899b6b7",
+      "fullName": "เจ้าหน้าที่ตลาด",
+      "phone": "0431234123",
+      "role": "staff",
+      "salt": "a6fc53343361540dd76689a8d8ccb13d",
+      "passwordHash": "a121e44856a333b0f64735e6f796f97b54fc30edc26686f8a5aab80acc2bdfb141e112c5a808e5eb1693eb42f53208464907e94d2ca81ea2bd3db43617a6b10a",
+      "createdAt": "2026-09-29T07:10:39.137Z"
+    }
+  ]
+}
