@@ -1,4 +1,4 @@
-# For Students who enrolled course SC363101 Software Testing and Quality Assurance and write Playwright toots automated test on Github
+# For Students who enrolled course SC363101 Software Testing and Quality Assurance and write Playwright automated test on Github
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
